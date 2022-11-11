@@ -76,7 +76,7 @@ a:hover {
 }
 
 .top-container {
-  background-image: url("images/clouds2.jpg");
+  background-image: url("clouds2.jpg");
   position: relative;
   text-align: center;
   padding-top: 2px;
@@ -247,7 +247,7 @@ table th {
 }
 
 /* .carousel-item {
-  background-image: url("../images/clouds2.jpg");
+  background-image: url("clouds2.jpg");
   width: 100%;
   position: relative;
   text-align: center;
