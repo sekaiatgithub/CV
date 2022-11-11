@@ -200,7 +200,7 @@ a:hover {
   padding-left: 3px;
 }
 
-.intro:hover {
+.intro {
   box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   transition: 0.5s;
